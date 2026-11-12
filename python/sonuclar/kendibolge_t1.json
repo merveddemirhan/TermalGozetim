@@ -1,0 +1,475 @@
+{
+ "etiket": "kendibolge",
+ "tohum": 1,
+ "ajan": {
+  "kendi_bolgem": true
+ },
+ "ortam": {},
+ "egri": [
+  {
+   "bolum": 100,
+   "karar": 15293,
+   "eps": 0.7578608333333333,
+   "odul": -1.4945229166666676,
+   "yangin": 0.11,
+   "dogrulanan": 3.87,
+   "dogrulama_sicakligi": 12.408268733850129
+  },
+  {
+   "bolum": 200,
+   "karar": 29934,
+   "eps": 0.526045,
+   "odul": -3.2685682291666693,
+   "yangin": 0.25,
+   "dogrulanan": 3.75,
+   "dogrulama_sicakligi": 11.581333333333333
+  },
+  {
+   "bolum": 300,
+   "karar": 44100,
+   "eps": 0.30174999999999996,
+   "odul": -0.7199958333333343,
+   "yangin": 0.17,
+   "dogrulanan": 3.64,
+   "dogrulama_sicakligi": 10.321428571428571
+  },
+  {
+   "bolum": 400,
+   "karar": 57751,
+   "eps": 0.08560916666666674,
+   "odul": 2.7845848958333317,
+   "yangin": 0.12,
+   "dogrulanan": 3.73,
+   "dogrulama_sicakligi": 9.423592493297587
+  },
+  {
+   "bolum": 500,
+   "karar": 71504,
+   "eps": 0.05,
+   "odul": 2.8880979166666663,
+   "yangin": 0.13,
+   "dogrulanan": 3.66,
+   "dogrulama_sicakligi": 8.896174863387978
+  },
+  {
+   "bolum": 600,
+   "karar": 84778,
+   "eps": 0.05,
+   "odul": 9.089746874999996,
+   "yangin": 0.05,
+   "dogrulanan": 4.26,
+   "dogrulama_sicakligi": 8.71830985915493
+  },
+  {
+   "bolum": 700,
+   "karar": 97857,
+   "eps": 0.05,
+   "odul": 4.390015104166667,
+   "yangin": 0.08,
+   "dogrulanan": 3.63,
+   "dogrulama_sicakligi": 8.862258953168045
+  },
+  {
+   "bolum": 800,
+   "karar": 111136,
+   "eps": 0.05,
+   "odul": 5.490863020833334,
+   "yangin": 0.03,
+   "dogrulanan": 3.73,
+   "dogrulama_sicakligi": 8.981233243967829
+  },
+  {
+   "bolum": 900,
+   "karar": 124435,
+   "eps": 0.05,
+   "odul": 5.895930208333332,
+   "yangin": 0.02,
+   "dogrulanan": 3.79,
+   "dogrulama_sicakligi": 8.91820580474934
+  },
+  {
+   "bolum": 1000,
+   "karar": 137507,
+   "eps": 0.05,
+   "odul": 2.4467640624999984,
+   "yangin": 0.04,
+   "dogrulanan": 3.4,
+   "dogrulama_sicakligi": 8.788235294117648
+  },
+  {
+   "bolum": 1100,
+   "karar": 150710,
+   "eps": 0.05,
+   "odul": 7.902114062499999,
+   "yangin": 0.01,
+   "dogrulanan": 3.87,
+   "dogrulama_sicakligi": 8.751937984496124
+  },
+  {
+   "bolum": 1200,
+   "karar": 164000,
+   "eps": 0.05,
+   "odul": 7.166808333333333,
+   "yangin": 0.0,
+   "dogrulanan": 3.93,
+   "dogrulama_sicakligi": 9.165394402035624
+  },
+  {
+   "bolum": 1300,
+   "karar": 176491,
+   "eps": 0.05,
+   "odul": 7.241107812499998,
+   "yangin": 0.0,
+   "dogrulanan": 3.81,
+   "dogrulama_sicakligi": 8.881889763779528
+  },
+  {
+   "bolum": 1400,
+   "karar": 188912,
+   "eps": 0.05,
+   "odul": 6.983890104166665,
+   "yangin": 0.0,
+   "dogrulanan": 3.7,
+   "dogrulama_sicakligi": 8.848648648648648
+  },
+  {
+   "bolum": 1500,
+   "karar": 201556,
+   "eps": 0.05,
+   "odul": 7.457839062499999,
+   "yangin": 0.0,
+   "dogrulanan": 3.81,
+   "dogrulama_sicakligi": 8.653543307086615
+  },
+  {
+   "bolum": 1600,
+   "karar": 214219,
+   "eps": 0.05,
+   "odul": 4.451334895833332,
+   "yangin": 0.01,
+   "dogrulanan": 3.57,
+   "dogrulama_sicakligi": 9.249299719887954
+  },
+  {
+   "bolum": 1700,
+   "karar": 226656,
+   "eps": 0.05,
+   "odul": 10.197196354166664,
+   "yangin": 0.0,
+   "dogrulanan": 4.22,
+   "dogrulama_sicakligi": 9.172985781990521
+  },
+  {
+   "bolum": 1800,
+   "karar": 239086,
+   "eps": 0.05,
+   "odul": 6.2296536458333325,
+   "yangin": 0.0,
+   "dogrulanan": 3.71,
+   "dogrulama_sicakligi": 9.005390835579515
+  },
+  {
+   "bolum": 1900,
+   "karar": 251199,
+   "eps": 0.05,
+   "odul": 9.719745833333333,
+   "yangin": 0.0,
+   "dogrulanan": 4.0,
+   "dogrulama_sicakligi": 8.3525
+  },
+  {
+   "bolum": 2000,
+   "karar": 263627,
+   "eps": 0.05,
+   "odul": 8.243188541666667,
+   "yangin": 0.0,
+   "dogrulanan": 3.93,
+   "dogrulama_sicakligi": 8.61323155216285
+  },
+  {
+   "bolum": 2100,
+   "karar": 276565,
+   "eps": 0.05,
+   "odul": 4.064945833333331,
+   "yangin": 0.01,
+   "dogrulanan": 3.41,
+   "dogrulama_sicakligi": 8.794721407624634
+  },
+  {
+   "bolum": 2200,
+   "karar": 289950,
+   "eps": 0.05,
+   "odul": 6.403264583333331,
+   "yangin": 0.02,
+   "dogrulanan": 3.82,
+   "dogrulama_sicakligi": 9.295811518324607
+  },
+  {
+   "bolum": 2300,
+   "karar": 303052,
+   "eps": 0.05,
+   "odul": 6.0067036458333325,
+   "yangin": 0.0,
+   "dogrulanan": 3.64,
+   "dogrulama_sicakligi": 8.774725274725276
+  },
+  {
+   "bolum": 2400,
+   "karar": 316423,
+   "eps": 0.05,
+   "odul": 7.588948437499998,
+   "yangin": 0.0,
+   "dogrulanan": 3.95,
+   "dogrulama_sicakligi": 9.075949367088608
+  },
+  {
+   "bolum": 2500,
+   "karar": 329866,
+   "eps": 0.05,
+   "odul": 6.668805729166666,
+   "yangin": 0.0,
+   "dogrulanan": 3.86,
+   "dogrulama_sicakligi": 8.94818652849741
+  },
+  {
+   "bolum": 2600,
+   "karar": 343412,
+   "eps": 0.05,
+   "odul": 9.152934895833331,
+   "yangin": 0.0,
+   "dogrulanan": 4.06,
+   "dogrulama_sicakligi": 8.62807881773399
+  },
+  {
+   "bolum": 2700,
+   "karar": 356383,
+   "eps": 0.05,
+   "odul": 6.305061458333331,
+   "yangin": 0.0,
+   "dogrulanan": 3.71,
+   "dogrulama_sicakligi": 8.657681940700808
+  },
+  {
+   "bolum": 2800,
+   "karar": 369241,
+   "eps": 0.05,
+   "odul": 8.394038541666665,
+   "yangin": 0.0,
+   "dogrulanan": 3.93,
+   "dogrulama_sicakligi": 8.636132315521628
+  },
+  {
+   "bolum": 2900,
+   "karar": 381824,
+   "eps": 0.05,
+   "odul": 7.481396874999998,
+   "yangin": 0.0,
+   "dogrulanan": 3.85,
+   "dogrulama_sicakligi": 8.805194805194805
+  },
+  {
+   "bolum": 3000,
+   "karar": 394701,
+   "eps": 0.05,
+   "odul": 6.879872916666666,
+   "yangin": 0.0,
+   "dogrulanan": 3.82,
+   "dogrulama_sicakligi": 9.041884816753926
+  },
+  {
+   "bolum": 3100,
+   "karar": 408508,
+   "eps": 0.05,
+   "odul": 7.125435937499997,
+   "yangin": 0.01,
+   "dogrulanan": 3.74,
+   "dogrulama_sicakligi": 8.582887700534759
+  },
+  {
+   "bolum": 3200,
+   "karar": 421934,
+   "eps": 0.05,
+   "odul": 6.959104687499997,
+   "yangin": 0.01,
+   "dogrulanan": 3.77,
+   "dogrulama_sicakligi": 8.697612732095491
+  },
+  {
+   "bolum": 3300,
+   "karar": 435262,
+   "eps": 0.05,
+   "odul": 8.293048958333332,
+   "yangin": 0.01,
+   "dogrulanan": 3.98,
+   "dogrulama_sicakligi": 8.801507537688442
+  },
+  {
+   "bolum": 3400,
+   "karar": 448686,
+   "eps": 0.05,
+   "odul": 9.240754687499997,
+   "yangin": 0.0,
+   "dogrulanan": 4.14,
+   "dogrulama_sicakligi": 9.144927536231885
+  },
+  {
+   "bolum": 3500,
+   "karar": 462051,
+   "eps": 0.05,
+   "odul": 5.413091145833332,
+   "yangin": 0.02,
+   "dogrulanan": 3.65,
+   "dogrulama_sicakligi": 8.66027397260274
+  },
+  {
+   "bolum": 3600,
+   "karar": 475314,
+   "eps": 0.05,
+   "odul": 8.384119270833333,
+   "yangin": 0.0,
+   "dogrulanan": 4.0,
+   "dogrulama_sicakligi": 9.1625
+  },
+  {
+   "bolum": 3700,
+   "karar": 488812,
+   "eps": 0.05,
+   "odul": 5.436700520833333,
+   "yangin": 0.01,
+   "dogrulanan": 3.63,
+   "dogrulama_sicakligi": 9.055096418732782
+  },
+  {
+   "bolum": 3800,
+   "karar": 501852,
+   "eps": 0.05,
+   "odul": 3.954820833333332,
+   "yangin": 0.01,
+   "dogrulanan": 3.42,
+   "dogrulama_sicakligi": 8.707602339181287
+  },
+  {
+   "bolum": 3900,
+   "karar": 514663,
+   "eps": 0.05,
+   "odul": 4.598152083333331,
+   "yangin": 0.0,
+   "dogrulanan": 3.5,
+   "dogrulama_sicakligi": 8.928571428571429
+  },
+  {
+   "bolum": 4000,
+   "karar": 527680,
+   "eps": 0.05,
+   "odul": 5.591485937499998,
+   "yangin": 0.01,
+   "dogrulanan": 3.74,
+   "dogrulama_sicakligi": 8.967914438502675
+  },
+  {
+   "bolum": 4100,
+   "karar": 540435,
+   "eps": 0.05,
+   "odul": 6.912062499999999,
+   "yangin": 0.02,
+   "dogrulanan": 3.82,
+   "dogrulama_sicakligi": 8.410994764397905
+  },
+  {
+   "bolum": 4200,
+   "karar": 553322,
+   "eps": 0.05,
+   "odul": 6.004223958333329,
+   "yangin": 0.0,
+   "dogrulanan": 3.64,
+   "dogrulama_sicakligi": 8.881868131868131
+  },
+  {
+   "bolum": 4300,
+   "karar": 566264,
+   "eps": 0.05,
+   "odul": 6.701857812499998,
+   "yangin": 0.02,
+   "dogrulanan": 3.79,
+   "dogrulama_sicakligi": 8.683377308707124
+  },
+  {
+   "bolum": 4400,
+   "karar": 579371,
+   "eps": 0.05,
+   "odul": 3.8102067708333327,
+   "yangin": 0.02,
+   "dogrulanan": 3.52,
+   "dogrulama_sicakligi": 8.647727272727273
+  },
+  {
+   "bolum": 4500,
+   "karar": 591954,
+   "eps": 0.05,
+   "odul": 8.204716145833332,
+   "yangin": 0.01,
+   "dogrulanan": 3.98,
+   "dogrulama_sicakligi": 8.771356783919598
+  },
+  {
+   "bolum": 4600,
+   "karar": 605068,
+   "eps": 0.05,
+   "odul": 8.787905208333331,
+   "yangin": 0.01,
+   "dogrulanan": 3.99,
+   "dogrulama_sicakligi": 8.62155388471178
+  },
+  {
+   "bolum": 4700,
+   "karar": 618152,
+   "eps": 0.05,
+   "odul": 7.330377083333332,
+   "yangin": 0.0,
+   "dogrulanan": 3.81,
+   "dogrulama_sicakligi": 8.58005249343832
+  },
+  {
+   "bolum": 4800,
+   "karar": 630912,
+   "eps": 0.05,
+   "odul": 5.270586458333331,
+   "yangin": 0.0,
+   "dogrulanan": 3.69,
+   "dogrulama_sicakligi": 9.330623306233063
+  },
+  {
+   "bolum": 4900,
+   "karar": 643489,
+   "eps": 0.05,
+   "odul": 6.29133958333333,
+   "yangin": 0.01,
+   "dogrulanan": 3.79,
+   "dogrulama_sicakligi": 9.147757255936675
+  },
+  {
+   "bolum": 5000,
+   "karar": 656118,
+   "eps": 0.05,
+   "odul": 7.145294791666665,
+   "yangin": 0.0,
+   "dogrulanan": 3.76,
+   "dogrulama_sicakligi": 8.51595744680851
+  }
+ ],
+ "test": {
+  "yangin": 0.001,
+  "dogrulanan": 3.891,
+  "dogrulama_sicaklik_toplam": 33.5495,
+  "yanlis_olusan": 4.058,
+  "yanlis_elenen": 3.924,
+  "motor": 400.0,
+  "yangin_bilinen": 0.001,
+  "yangin_kacirilan": 0.0,
+  "yangin_gorulmeyen": 0.0,
+  "odul": 8.237033177083331,
+  "dogrulama_sicakligi": 8.622333590336675,
+  "yangin_toplam": 2,
+  "bolum": 2000
+ }
+}

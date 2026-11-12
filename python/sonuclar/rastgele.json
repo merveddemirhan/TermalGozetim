@@ -1,0 +1,19 @@
+{
+ "etiket": "rastgele",
+ "ortam": {},
+ "test": {
+  "yangin": 2.6,
+  "dogrulanan": 1.11,
+  "dogrulama_sicaklik_toplam": 14.13,
+  "yanlis_olusan": 4.185,
+  "yanlis_elenen": 1.455,
+  "motor": 364.575,
+  "yangin_bilinen": 1.425,
+  "yangin_kacirilan": 0.05,
+  "yangin_gorulmeyen": 1.125,
+  "odul": -94.58645781250002,
+  "dogrulama_sicakligi": 12.72972972972973,
+  "yangin_toplam": 520,
+  "bolum": 200
+ }
+}

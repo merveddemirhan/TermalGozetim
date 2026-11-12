@@ -1,0 +1,36 @@
+# Unity tarafından üretilen klasörler (depoya konmaz)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+.vs/
+.vscode/
+.idea/
+*.apk
+*.aab
+*.unitypackage
+crashlytics-buildid.txt
+
+# ML-Agents / Python
+mlagents-env/
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini

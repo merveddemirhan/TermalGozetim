@@ -1,0 +1,19 @@
+{
+ "etiket": "devriye",
+ "ortam": {},
+ "test": {
+  "yangin": 0.0,
+  "dogrulanan": 4.085,
+  "dogrulama_sicaklik_toplam": 37.485,
+  "yanlis_olusan": 4.145,
+  "yanlis_elenen": 3.98,
+  "motor": 396.0,
+  "yangin_bilinen": 0.0,
+  "yangin_kacirilan": 0.0,
+  "yangin_gorulmeyen": 0.0,
+  "odul": 7.903213281249996,
+  "dogrulama_sicakligi": 9.17625458996328,
+  "yangin_toplam": 0,
+  "bolum": 200
+ }
+}
